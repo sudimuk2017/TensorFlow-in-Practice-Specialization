@@ -1,4 +1,4 @@
-1) Using parameters to the ImageDataGenerator
+
 
 2) Use the ‘horizontal_flip’ parameter
 
