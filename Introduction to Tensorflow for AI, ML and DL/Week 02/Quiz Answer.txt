@@ -1,4 +1,4 @@
-1) Fashion MNIST
+
 
 2) 28x28 Greyscale
 
