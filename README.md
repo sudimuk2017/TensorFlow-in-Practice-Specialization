@@ -25,7 +25,7 @@ The Specialization has 4 Courses:
 
 ## About the Instructors
 
-- **Andrew Ng**  [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng) 
+- **Andrew Ng**  [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng).
 
 - **Laurence Moroney** is a Developer Advocate at Google working on Artificial Intelligence with TensorFlow. 
   
