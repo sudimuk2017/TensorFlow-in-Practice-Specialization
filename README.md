@@ -30,7 +30,7 @@ The Specialization has 4 Courses:
 - **Laurence Moroney** is a Developer Advocate at Google working on Artificial Intelligence with TensorFlow. 
   
 
-Just for reference and I hope you can star⭐ me.
+Just for reference and I hope you can star⭐me.
 
 ## Contact me
   
