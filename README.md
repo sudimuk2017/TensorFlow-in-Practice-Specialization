@@ -2,7 +2,6 @@
 ********************************************************
 
 
-
 This repo contains my solution to the "TensorFlow From Basics to Mastery" specialization on Coursera made by Andrew Ng. and Laurence Moroney. You can check the whole specialization from the official website of deeplearning.ai [here](https://www.deeplearning.ai/tensorflow-from-basics-to-mastery/) or on Coursera right [here](https://www.coursera.org/collections/tensorflow-deeplearning-ai).
 
 ## Specialization Certificate:  [Verified by Coursera](https://www.coursera.org/account/accomplishments/specialization/9P5W2L2BJFVM)
